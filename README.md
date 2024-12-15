@@ -1,3 +1,3 @@
 # Tic-Toa-Game
-A simple and funny game<hr>
+A simple and funny game<br>
 Author- Khalid Mahamud
