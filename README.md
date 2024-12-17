@@ -1,3 +1,3 @@
 # Tic-Tac-Toa-Game
-A simple and funny game https://quiet-hotteok-295d0f.netlify.app/
+A simple and funny game https://endearing-bienenstitch-51892e.netlify.app/
 Author- Khalid Mahamud
